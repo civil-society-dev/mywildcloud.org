@@ -1,5 +1,7 @@
 +++
-title = 'Get Started'
+title = "Get Started"
+date = '2025-06-09'
+draft = false
 +++
 
 _The Wild-cloud project is in active development._

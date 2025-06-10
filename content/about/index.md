@@ -1,5 +1,6 @@
 +++
 title = 'About the Wild-cloud Project'
+date = '2025-06-09'
 +++
 
 Wild-cloud is a project of the [Civil Society Technology Foundation](https://civilsociety.dev).
